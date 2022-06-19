@@ -153,3 +153,27 @@ h3 {
 
   }
 }
+
+/* Call to Action */
+
+#cta {
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 5% 15% 1%;
+}
+
+.cta {
+   font-family: 'Montserrat-Black, sans-serif';
+   color: #fff;
+   font-size: 3rem;
+   line-height: 1.5;
+   font-weight: 800;
+}
+
+/* Footer */
+
+#footer {
+  background-color: #fff;
+  padding: 5%;
+  text-align: center;
+}
